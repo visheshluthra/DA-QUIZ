@@ -13,5 +13,5 @@ The 5 pages are:
 So the pages will be connected to the maiin page.
 Instruction page will have the instructions of the quiz.
 Then we move to the quiz which allows navigation among questions.
-then we have the leaderboard and the platform page which suggests platforms to the users to learn various programming languages AND FINLLY RATE US WHERE YOU RATE THE GAME AND THE QUESTIONS.
+then we have the leaderboard and the platform page which suggests platforms to the users to learn various programming languages AND FINALY RATE US WHERE YOU RATE THE GAME AND THE QUESTIONS.
 
